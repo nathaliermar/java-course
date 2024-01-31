@@ -1,10 +1,10 @@
 package Strings;
 
-//toLowerCase: torna todos os caracteres em caracteres minúsculas.
-//Estamos utilizando o println, pois os métodos que estamos utilizando retornam a informação desejada.
+//toLowerCase: turns all characters into lowercase characters.
+//toUpperCase: makes all characters uppercase characters.
+//We are using println, because the methods we are using return the desired information.
 
-
-public class toLowerCase {
+public class toLowerUpperCase {
 
     public static void main(String[] args) {
 
@@ -13,17 +13,15 @@ public class toLowerCase {
         System.out.println(test.toLowerCase());
 
         System.out.println(test.toUpperCase());
-
-        //Duas formas de escrever o código recebendo o mesmo resultado.
-
+        
+        
+        //Two ways of writing the code receiving the same result.
+        
         String testTiny = test.toLowerCase();
         System.out.println(testTiny);
 
         String testCapital = test.toUpperCase();
         System.out.println(testCapital);
-
-
-
-
     }
 }
+
