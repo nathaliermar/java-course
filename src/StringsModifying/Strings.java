@@ -1,6 +1,11 @@
 package StringsModifying;
 
-public class SubString {
+// Webservices: conversation between systems.
+//Files are a way for conversations between systems to occur, to exchange information, etc.
+// These files can be XML, CSV, .txt
+//Important to study XML in Java.
+
+public class Strings {
 
     public static void main(String[] args) {
 
