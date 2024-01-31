@@ -1,2 +1,6 @@
-package Enum;public class DocumentType {
+package Enum;
+
+public class DocumentType {
+
+  CPF, CNPJ;
 }
