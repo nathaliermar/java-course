@@ -1,8 +1,9 @@
 package Strings;
 
-//Importante estudar sobre expressões regulares.
-// split(", ") - vírgula e espaço servem como delimitadores entre as strings nesse caso.
-//Método Split muito útil na leitura de arquivos flat file,
+//Important to study regular expressions.
+// split(", ") - comma and space serve as delimiters between strings in this case.
+//Split method very useful when reading flat file files.
+
 public class Join {
 
     public static void main(String[] args) {
