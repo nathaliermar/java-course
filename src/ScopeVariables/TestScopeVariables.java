@@ -1,2 +1,4 @@
-package ScopeVariables;public class TestScopeVariables {
+package ScopeVariables;
+
+public class TestScopeVariables {
 }
