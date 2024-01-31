@@ -1,2 +1,6 @@
-package NestedClasses;public interface Text {
+package NestedClasses;
+
+public interface Text {
+
+      void printText();
 }
